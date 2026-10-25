@@ -1,0 +1,8 @@
+Blockchain
+
+versionarea contractelor : tema de proiect 
+o functie nu poate fi lipita unui cod odata ce s a facut deploy 
+
+sa lucram cu proxy uri ar trebui 
+
+functia : compilare + deploy 
